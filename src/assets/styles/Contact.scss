@@ -1,0 +1,101 @@
+.contact_wrapper svg {
+  font-size: 1em;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.contact-form fieldset {
+  background-color: transparent !important;
+}
+
+.contact-form {
+  padding-top: 20px;
+
+  button {
+    float: right;
+    background-color: white;
+    color: #050f0b;
+  }
+
+  button:hover {
+    background-color: #5000ca;
+    color: white;
+  }
+}
+
+label {
+  font-size: 1.2rem;
+  font-family: 'DomaineDispNar-Medium', sans-serif;
+}
+
+.form-flex {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 15px;
+}
+
+.form-flex .MuiFormControl-root {
+  width: 100%;
+}
+
+form {
+  width: 100% !important;
+}
+
+.body-form {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+  //  Correct way to make inputs white
+  .MuiOutlinedInput-root {
+    background-color: white !important;
+    border-radius: 4px;
+  }
+
+  //  Text color and caret
+  .MuiOutlinedInput-input {
+    color: #000 !important;
+    caret-color: #000 !important;
+  }
+
+  // Label styling
+  .MuiInputLabel-root {
+    color: #000 !important;
+  }
+
+  // Override MUIs fieldset overlay to be transparent (dont delete it)
+  fieldset {
+    background-color: transparent !important;
+  }
+
+  .MuiOutlinedInput-root.Mui-focused {
+  box-shadow: 0 0 0 2px rgba(80, 0, 202, 0.2);
+  border-radius: 4px;
+}
+
+
+.contact-form input,
+.contact-form textarea {
+  color: #000000 !important; // or black if your background is light
+}
+.MuiInputBase-input {
+  color: #000000 !important; // ensures MUI respects the visible color
+}
+.MuiInputLabel-root {
+  color: #000000 !important;
+}
+
+//.MuiOutlinedInput-root {
+//  background: white !important;
+//  border: 1px solid red !important;
+//  color: black !important;
+//  z-index: 10 !important;
+//  position: relative !important;
+//}
+//
+//.MuiOutlinedInput-input {
+//  color: black !important;
+//  caret-color: red !important;
+//  z-index: 10 !important;
+//}
