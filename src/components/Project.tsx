@@ -82,6 +82,7 @@ function Project() {
                     transitionTime={400}
                     stopOnHover
                     emulateTouch={false}
+					swipeable={false}
                     >
                     <div className="video-wrapper">
                         <ReactPlayer 
@@ -95,7 +96,7 @@ function Project() {
                     </div>
                     <div className="blueprint-script">
                         <iframe title="WorkstationBase" src="https://blueprintue.com/render/nh9ca2vs/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">Function in the workstation base class that all workstations inherit from (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">Function in the workstation base class that all workstations inherit from (use full screen on mobile)</p>
                     </div>
                     <div className="code-slide">
                         <SyntaxHighlighter
@@ -319,11 +320,11 @@ void APlayerCharacter::RotateCameraBackToCenter()
                     </div>
                     <div className="blueprint-script">
                         <iframe title="OrderGeneration" src="https://blueprintue.com/render/_3tsce9r/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">Order Generation script on the NPC Character (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">Order Generation script on the NPC Character (use full screen on mobile)</p>
                     </div>
                     <div className="blueprint-script">
                         <iframe title="AnvilGraph" src="https://blueprintue.com/render/lj_s3ls4/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">The anvil's main event graph (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">The anvil's main event graph (use full screen on mobile)</p>
                     </div>
                 </Carousel>
                 </div>
@@ -374,6 +375,7 @@ void APlayerCharacter::RotateCameraBackToCenter()
                     transitionTime={400}
                     stopOnHover
                     emulateTouch={false}
+					swipeable={false}
                     >
                     <div className="code-slide">
                         <SyntaxHighlighter
@@ -1066,6 +1068,7 @@ void UNavBarBase::RemoveParentWidget()
                     transitionTime={400}
                     stopOnHover
                     emulateTouch={false}
+					swipeable={false}
                     >
                     <div className="video-wrapper">
                         <ReactPlayer 
@@ -1498,7 +1501,7 @@ void ANPCBaseCharacter::ResetStunCooldown()
                     </div>
                     <div className="blueprint-script">
                         <iframe title="CharacterGraph" src="https://blueprintue.com/render/yrsr0na7/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">The entire character event graph. (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">The entire character event graph. (use full screen on mobile)</p>
                     </div>
                     <div className="code-slide">
                         <SyntaxHighlighter
@@ -1649,7 +1652,7 @@ void ACombatManager::ManageTokenRequest(ANPCBaseCharacter* NPC)
                     
                     <div className="blueprint-script">
                         <iframe title="CaveTroll" src="https://blueprintue.com/render/cgt22q3u/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">The Cave Troll's (final boss) event graph (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">The Cave Troll's (final boss) event graph (use full screen on mobile)</p>
                     </div>
                 </Carousel>
                 </div>
@@ -1697,6 +1700,7 @@ void ACombatManager::ManageTokenRequest(ANPCBaseCharacter* NPC)
                     transitionTime={400}
                     stopOnHover
                     emulateTouch={false}
+					swipeable={false}
                     >
                     <div className="video-wrapper">
                         <ReactPlayer 
@@ -2103,6 +2107,7 @@ void AInteractableActor::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent
                     transitionTime={400}
                     stopOnHover
                     emulateTouch={false}
+					swipeable={false}
                     >
                     <div className="video-wrapper">
                         <ReactPlayer 
@@ -2120,19 +2125,19 @@ void AInteractableActor::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent
                     </div>
                     <div className="blueprint-script">
                         <iframe title="Grapplegraph" src="https://blueprintue.com/render/arckyleh/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">The main event graph for the grapple (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">The main event graph for the grapple (use full screen on mobile)</p>
                     </div>
                     <div className="blueprint-script">
                         <iframe title="PullCharacter Function" src="https://blueprintue.com/render/zo01amkr/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">The function that pulls the character to the grapple target (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">The function that pulls the character to the grapple target (use full screen on mobile)</p>
                     </div>
                     <div className="blueprint-script">
                         <iframe title="FindBestTarget" src="https://blueprintue.com/render/7q2w8g-g/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">Find Best Grapple Target (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">Find Best Grapple Target (use full screen on mobile)</p>
                     </div>
                     <div className="blueprint-script">
                         <iframe title="Checkpoints" src="https://blueprintue.com/render/e0efgwu0/" scrolling="no" allowFullScreen></iframe>
-                        <p className="legend">Simple checkpoint system (right click to navigate, ctrl+zoom to zoom)</p>
+                        <p className="legend">Simple checkpoint system (use full screen on mobile)</p>
                     </div>
                 </Carousel>
                 </div>
