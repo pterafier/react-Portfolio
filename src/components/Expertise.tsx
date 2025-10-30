@@ -46,7 +46,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faCode} size="3x"/>
                     <h3>Gameplay Programming</h3>
-                    <p>I have built a diverse array of gameplay and system features, including robust save/load architectures, persistent world systems that retain object states in World Partition, like doors, and Steam Sessions plugins to network Unreal Engine games.</p>
+                    <p>I have built a diverse array of gameplay and system features, including robust save/load architectures, persistent world systems that retain object states in World Partition, and Steam Sessions plugins to network Unreal Engine games.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Key Skills:</span>
                         {labelsFirst.map((label, index) => (
