@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bfa64a29.css",
-    "main.js": "/static/js/main.7945df09.js",
+    "main.js": "/static/js/main.f2f3a666.js",
     "reactPlayerHls.js": "/static/js/reactPlayerHls.eece3dec.chunk.js",
     "reactPlayerDash.js": "/static/js/reactPlayerDash.a24d5ae4.chunk.js",
     "reactPlayerMux.js": "/static/js/reactPlayerMux.c5d528c3.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/artstationLogo.png": "/static/media/artstationLogo.f861df9eaf0848fed400.png",
     "index.html": "/index.html",
     "main.bfa64a29.css.map": "/static/css/main.bfa64a29.css.map",
-    "main.7945df09.js.map": "/static/js/main.7945df09.js.map",
+    "main.f2f3a666.js.map": "/static/js/main.f2f3a666.js.map",
     "reactPlayerHls.eece3dec.chunk.js.map": "/static/js/reactPlayerHls.eece3dec.chunk.js.map",
     "reactPlayerDash.a24d5ae4.chunk.js.map": "/static/js/reactPlayerDash.a24d5ae4.chunk.js.map",
     "reactPlayerMux.c5d528c3.chunk.js.map": "/static/js/reactPlayerMux.c5d528c3.chunk.js.map",
@@ -42,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.bfa64a29.css",
-    "static/js/main.7945df09.js"
+    "static/js/main.f2f3a666.js"
   ]
 }
