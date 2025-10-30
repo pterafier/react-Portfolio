@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.77c35b13.css",
-    "main.js": "/static/js/main.d7879412.js",
+    "main.css": "/static/css/main.40058dec.css",
+    "main.js": "/static/js/main.7945df09.js",
     "reactPlayerHls.js": "/static/js/reactPlayerHls.eece3dec.chunk.js",
     "reactPlayerDash.js": "/static/js/reactPlayerDash.a24d5ae4.chunk.js",
     "reactPlayerMux.js": "/static/js/reactPlayerMux.c5d528c3.chunk.js",
@@ -23,8 +23,8 @@
     "static/media/clocktergeistdesign.png": "/static/media/clocktergeistdesign.cc1a30e1df23f84ab41d.png",
     "static/media/artstationLogo.png": "/static/media/artstationLogo.f861df9eaf0848fed400.png",
     "index.html": "/index.html",
-    "main.77c35b13.css.map": "/static/css/main.77c35b13.css.map",
-    "main.d7879412.js.map": "/static/js/main.d7879412.js.map",
+    "main.40058dec.css.map": "/static/css/main.40058dec.css.map",
+    "main.7945df09.js.map": "/static/js/main.7945df09.js.map",
     "reactPlayerHls.eece3dec.chunk.js.map": "/static/js/reactPlayerHls.eece3dec.chunk.js.map",
     "reactPlayerDash.a24d5ae4.chunk.js.map": "/static/js/reactPlayerDash.a24d5ae4.chunk.js.map",
     "reactPlayerMux.c5d528c3.chunk.js.map": "/static/js/reactPlayerMux.c5d528c3.chunk.js.map",
@@ -41,7 +41,7 @@
     "788.7dc9205b.chunk.js.map": "/static/js/788.7dc9205b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c35b13.css",
-    "static/js/main.d7879412.js"
+    "static/css/main.40058dec.css",
+    "static/js/main.7945df09.js"
   ]
 }
